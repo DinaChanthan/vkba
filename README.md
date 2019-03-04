@@ -1,7 +1,11 @@
 ![github_saleor_readmew_header_01](https://user-images.githubusercontent.com/5421321/47800694-19bec680-dd2d-11e8-8625-2ed7c690bc13.jpg)
 
 <div align="center">
+<<<<<<< HEAD
   <h1>Saleor_Chanthan</h1>
+=======
+  <h1>Saleor_ZATIN</h1>
+>>>>>>> b3755fb7991859a4cb974599d16c79a0f7349846
 </div>
 
 <div align="center">
